@@ -5,8 +5,7 @@
 
 # Solution code
 
-## Project 1 Solution
-
+## Color Changer Solution code
 ```javascript
 
 const buttons = document.querySelectorAll('.button');
@@ -36,7 +35,7 @@ buttons.forEach(function (button) {
 
 ```
 
-## Project 2 solution
+## BMI calculator solution code
 
 ```javascript
 const form = document.querySelector('form');
@@ -64,7 +63,7 @@ form.addEventListener('submit', function (e) {
 
 ```
 
-## Project 3 solution code
+## Digital clock solution code
 
 ```javascript
 const clock = document.getElementById('clock');
@@ -79,7 +78,7 @@ setInterval(function () {
 
 ```
 
-## Project 4 solution
+## Guess The Number solution code
 
 
 ```javascript
